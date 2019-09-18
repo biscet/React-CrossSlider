@@ -1,0 +1,6 @@
+@import "../../Static/Styles/inheritance";
+
+main {
+  @extend %row;
+  flex-direction: column;
+}
